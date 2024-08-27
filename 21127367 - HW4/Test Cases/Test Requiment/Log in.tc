@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Log in to Admin web</description>
+   <name>Log in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cd74147-6aeb-46a7-b1e7-3c39ecc96bd2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1_Edit Account</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4949edac-2e7d-4e18-b1d1-ed9ab5e86947</testSuiteGuid>
+   <testCaseLink>
+      <guid>2046ef9c-c4e3-4b7d-85ac-c35fe06d9d91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Requiment/Log in</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b774d1da-f47a-4a7e-96a7-5e30cfb61679</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Account Management/Edit Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>72371bc9-4d4d-4c36-9565-cbd141788409</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/EditAccount Data File</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>72371bc9-4d4d-4c36-9565-cbd141788409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HoVaTen_String</value>
+         <variableId>071a11e6-a512-4eb8-b10e-87ce22dde75f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72371bc9-4d4d-4c36-9565-cbd141788409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoDienThoai_String</value>
+         <variableId>53b3ef3a-7584-4012-98d1-b852f0b5bf34</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72371bc9-4d4d-4c36-9565-cbd141788409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NgaySinh_String</value>
+         <variableId>e18c77a2-3704-4a8f-b336-c340d9d2ed82</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72371bc9-4d4d-4c36-9565-cbd141788409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedOutput</value>
+         <variableId>f2479f58-c4b0-4d24-aaa3-ad11b0ad9d7c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72371bc9-4d4d-4c36-9565-cbd141788409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>message</value>
+         <variableId>bce5b4f8-cadc-4ee0-8abe-b9afce9ac035</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

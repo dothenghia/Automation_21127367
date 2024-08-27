@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_Error_HoVaTen_EA</name>
+   <tag></tag>
+   <elementGuidId>c01d545f-77bb-453b-a992-ed261deea89d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Họ và tên không được để trống&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>77fcb462-2cb1-4116-8696-6f0fe56c9d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-o1ds8i-MuiFormHelperText-root</value>
+      <webElementGuid>00bd8c3d-0ebe-4520-9983-29657646e472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r2b:-helper-text</value>
+      <webElementGuid>7fe6a3f9-eb64-4963-b0a9-5a5c798dc4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Họ và tên không được để trống</value>
+      <webElementGuid>dfa99596-c495-45c6-83b8-eff919514509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r2b:-helper-text&quot;)</value>
+      <webElementGuid>6adaebb4-6c05-4935-9343-825a74fb41e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r2b:-helper-text']</value>
+      <webElementGuid>3a86061a-a0b8-47e4-8d9b-39c91ca4f6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Họ và tên (*)'])[2]/following::p[1]</value>
+      <webElementGuid>ba249ab1-2b30-457e-a063-a076e371c69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Họ và tên (*)'])[1]/following::p[1]</value>
+      <webElementGuid>dc97bafa-02ed-4bde-bf1a-409ade8d2766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[2]/preceding::p[1]</value>
+      <webElementGuid>4c854546-088e-488d-b3ba-79fc16063eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[3]/preceding::p[1]</value>
+      <webElementGuid>0b7a1b85-ebd8-498b-96e2-3964c783c138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Họ và tên không được để trống']/parent::*</value>
+      <webElementGuid>a57a0ba5-b54e-4377-94a9-28c0ccc280cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p</value>
+      <webElementGuid>f96aac1d-81da-4645-bd55-c66c4958c8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r2b:-helper-text' and (text() = 'Họ và tên không được để trống' or . = 'Họ và tên không được để trống')]</value>
+      <webElementGuid>ec5c571a-ab64-4f9a-99b7-92ea8a37711d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

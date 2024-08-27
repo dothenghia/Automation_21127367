@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_41_AnotherDefined_Icon_CGT</name>
+   <tag></tag>
+   <elementGuidId>ada645a8-cb31-4b25-92b5-1a565193f943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault.css-1y23w1p-MuiAvatar-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;m&quot;s >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66d146c9-e8d1-4f45-b118-21b4c8ce0121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1y23w1p-MuiAvatar-root</value>
+      <webElementGuid>37fa85c4-a169-49bc-9863-eba90af2ce48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>m</value>
+      <webElementGuid>64bf0a96-1a5e-49e0-9689-c2580ca244a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-n5fs5b&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-10e16op-MuiPaper-root-MuiCard-root&quot;]/ul[@class=&quot;MuiImageList-root MuiImageList-standard css-rvv586-MuiImageList-root&quot;]/li[@class=&quot;MuiImageListItem-root MuiImageListItem-standard css-k7l9vz-MuiImageListItem-root&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1y23w1p-MuiAvatar-root&quot;]</value>
+      <webElementGuid>d0377da3-e2c1-4460-83d4-c597af113c65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biểu tượng mặc định'])[1]/following::div[1]</value>
+      <webElementGuid>32dd6c3c-ad20-4afc-9245-71d2f3d300be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn biểu tượng'])[1]/following::div[3]</value>
+      <webElementGuid>36283bfe-74ae-4019-9a43-a610fc56b602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='m'])[2]/preceding::div[1]</value>
+      <webElementGuid>0a341756-aef7-411d-9bed-4f9cfcd559da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='m'])[3]/preceding::div[2]</value>
+      <webElementGuid>90207949-3538-48d3-a0ed-bcc2b7ed80a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='m']/parent::*</value>
+      <webElementGuid>e1574105-37bb-4a68-8f70-2b3efe6fa327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li/div</value>
+      <webElementGuid>d0f9a594-cf93-432e-b705-249c4ab54ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'm' or . = 'm')]</value>
+      <webElementGuid>87edf6be-f951-48a7-a36b-8d30e8a9c1a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

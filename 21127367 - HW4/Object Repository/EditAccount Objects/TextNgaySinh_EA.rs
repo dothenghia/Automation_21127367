@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TextNgaySinh_EA</name>
+   <tag></tag>
+   <elementGuidId>4b90ccb8-b6b0-478f-adc9-4a3b9ec79c0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày sinh'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;10/1/2003&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c0a0c081-c9a0-40ac-b453-dd11d6c02f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 !text-sm css-3zsn1c-MuiTypography-root</value>
+      <webElementGuid>f0c1382d-ff67-4e0a-bb0f-cf8911c88915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10/1/2003</value>
+      <webElementGuid>e8dc2e01-7349-421e-9a50-4259fd5c17d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-zw3mfo-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-1sep8xo-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXs MuiDialog-paperFullWidth css-loch9z-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiDialogContent-root css-14dof5i-MuiDialogContent-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1oqhxtw-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiCardContent-root css-16f0y5w-MuiCardContent-root&quot;]/ul[@class=&quot;MuiList-root MuiList-padding flex flex-col space-y-2 css-s5dl0b-MuiList-root&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-1l9osrx-MuiListItem-root&quot;]/div[@class=&quot;MuiListItemText-root MuiListItemText-multiline css-1iekaco-MuiListItemText-root&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 !text-sm css-3zsn1c-MuiTypography-root&quot;]</value>
+      <webElementGuid>0a87cd7a-37b0-43e8-b17b-bf1fcfe02bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày sinh'])[1]/following::p[1]</value>
+      <webElementGuid>86bd14c4-25a6-4506-bb88-670a5d4b9702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::p[2]</value>
+      <webElementGuid>a7b7dc4b-508b-45e9-b0bb-ad28024f1d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/preceding::p[1]</value>
+      <webElementGuid>0cb4c761-5844-4781-9c91-cdc6a94c44c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảng Điểm'])[1]/preceding::p[2]</value>
+      <webElementGuid>37b6ba63-6b8a-4493-9df7-42e20bf81acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10/1/2003']/parent::*</value>
+      <webElementGuid>c6146439-4f97-411f-914c-463caed11a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/p</value>
+      <webElementGuid>ad72be42-cd44-4082-ae04-518de8faa3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '10/1/2003' or . = '10/1/2003')]</value>
+      <webElementGuid>29cf30cb-24d0-41d8-b762-ac2591cbd885</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

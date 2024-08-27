@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GroupName_ErrorText_EGI</name>
+   <tag></tag>
+   <elementGuidId>0a293801-a59b-44f0-9f90-2fcb896db60f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[3]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tên nhóm không được rỗng&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>892eb98d-65a1-4904-97e8-5554bf272d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-f8sbie-MuiFormHelperText-root</value>
+      <webElementGuid>abe10dd4-373e-445d-b0d6-fc1e1116ca23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r14:-helper-text</value>
+      <webElementGuid>50215312-6197-4fa9-9d51-699c9cf48e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tên nhóm không được rỗng</value>
+      <webElementGuid>8f92c9dd-0400-4556-8aa7-e5fb7082253e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r14:-helper-text&quot;)</value>
+      <webElementGuid>8aa44048-abef-4f08-b3d4-10061265a61f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r14:-helper-text']</value>
+      <webElementGuid>781fbb7d-5418-4692-969c-e94cd1a8a834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[11]/following::p[1]</value>
+      <webElementGuid>3109a8c9-6373-4ebc-a304-1e6c8c281054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::p[1]</value>
+      <webElementGuid>18f0e2dc-4945-4b0d-addc-1901cd2525dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo ta'])[1]/preceding::p[2]</value>
+      <webElementGuid>824a4e22-28b1-42cc-a700-c2368046bb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[12]/preceding::p[2]</value>
+      <webElementGuid>81936b62-af47-4027-be64-c5c76cad9493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tên nhóm không được rỗng']/parent::*</value>
+      <webElementGuid>208a5f03-5185-4473-8fac-ee36901ffbb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div/p</value>
+      <webElementGuid>813af43c-7947-4ffd-aa7b-aed20f1ad87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r14:-helper-text' and (text() = 'Tên nhóm không được rỗng' or . = 'Tên nhóm không được rỗng')]</value>
+      <webElementGuid>2341fc81-7038-4a93-865a-f82b5b0a6389</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GroupName_Text_EGI</name>
+   <tag></tag>
+   <elementGuidId>1b2b28fc-5f5b-4f68-ab59-7f97d2d826f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[1]/td[3]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-button.css-718wle-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Test&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed5ec9bd-84b9-4968-8741-e1613bf6d722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-button css-718wle-MuiTypography-root</value>
+      <webElementGuid>9143ce4a-107e-48f8-8c93-803b0d715ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test </value>
+      <webElementGuid>d476055c-0273-422b-a061-2db81ab4afae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1xri2qh&quot;]/div[@class=&quot;MuiBox-root css-y8t3k5&quot;]/div[@class=&quot;MuiBox-root css-cdivok&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1h15ts-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-afbxdw&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiTableContainer-root css-14a9zel-MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root css-x4ohpz-MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root css-apqrd9-MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root css-n3cyd2-MuiTableRow-root&quot;]/td[@class=&quot;MuiBox-root css-1a2svrq&quot;]/div[@class=&quot;MuiBox-root css-1tqqhim&quot;]/a[1]/span[@class=&quot;MuiTypography-root MuiTypography-button css-718wle-MuiTypography-root&quot;]</value>
+      <webElementGuid>e1b06e88-5f50-4eb8-9a46-1ad272a6705d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div/div[2]/div/div[2]/table/tbody/tr/td[3]/div/a/span</value>
+      <webElementGuid>2a9c3431-5507-44b8-b3a8-c0a5f3a5668a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời hạn'])[1]/following::span[1]</value>
+      <webElementGuid>ed457581-bacf-471d-9821-9a2fbd0cfdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lớp Testing'])[1]/preceding::span[1]</value>
+      <webElementGuid>d81458e4-6e12-45e6-8374-c5f66ab70eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang hoạt động'])[1]/preceding::span[1]</value>
+      <webElementGuid>47f8046a-5d8d-40fe-85ab-bfbd74cc86ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test']/parent::*</value>
+      <webElementGuid>8698216b-3259-44c6-a7c4-64df24c080a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>10814617-077b-465a-b3f1-7169a6e8da40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test ' or . = 'Test ')]</value>
+      <webElementGuid>979ffc28-98df-41f9-aea2-1a6ed67f4f11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

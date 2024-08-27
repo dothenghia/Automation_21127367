@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Edit Group Information</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6c3756b2-5f44-421c-8bb7-c26bd3f28ee2</testSuiteGuid>
+   <testCaseLink>
+      <guid>58b95d8d-b8d4-47da-84f1-4faeaf5aa435</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Requiment/Log in</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d828e090-b776-40bd-9a5f-10a2e7cf0376</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Group Management/Edit Group Information</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0504514e-8483-4029-89d1-9f6e696de7dc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/EditGroupInformation Data File</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Group_Name</value>
+         <variableId>2320cca1-c83c-4577-8a2c-42cc6866069c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Group_Description</value>
+         <variableId>30944cf4-cab8-46a7-a33a-192b09054aed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Group_Type</value>
+         <variableId>61fd64b1-3e0b-4a48-ab39-7582a7a6d05a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Start_Time</value>
+         <variableId>c393816f-35fc-4755-a0a3-6d234b64c7c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>End_Time</value>
+         <variableId>970507f0-2e87-4b6c-b508-9d063d397872</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Message_Text</value>
+         <variableId>89e0dd44-71e9-4d53-ae90-24047b537b28</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0504514e-8483-4029-89d1-9f6e696de7dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Expected_Output</value>
+         <variableId>342113cd-1736-47b0-a0ad-6f95f72dde4f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
